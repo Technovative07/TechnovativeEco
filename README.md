@@ -27,3 +27,15 @@ The screenshot above demonstrates that the backend development work has been com
 
 *Alternative Access:*
 If needed, the backend code can be shared through alternative methods or the push issues can be resolved with proper access permissions.# TechnovativeEco
+
+![Image](https://github.com/user-attachments/assets/b7172ce9-ba6a-4d55-80e0-1d5d60ecf55b)
+
+![Image](https://github.com/user-attachments/assets/2c56ecb5-55b6-4d79-ab10-93ef6a3ae6af)
+
+![Image](https://github.com/user-attachments/assets/f906827f-58c1-4fc6-83c4-ff9e12a6d52d)
+
+![Image](https://github.com/user-attachments/assets/2015e8f4-1c0b-4a6a-9127-34c7d70f7388)
+
+![Image](https://github.com/user-attachments/assets/ea86c102-570b-45d8-ad09-5fee9f338107)
+
+![Image](https://github.com/user-attachments/assets/2f7f3030-035a-4a25-bc08-8a2edbc75fa5)
